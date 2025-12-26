@@ -15,53 +15,39 @@
 
 ### 🧠 关于我
 
-- **大一新生，目前在学习C++，QT**
-- 擅长从白天到黑夜不停学习技术
-- 热衷研究 **爬虫逆向、图形化界面、机器学习，GalGame(bushi)等**
+- **大一新生，目前在学习C++，QT喵**
+- 擅长从白天到黑夜不停学习技术喵
+- 热衷研究 **爬虫逆向、图形化界面、机器学习，GalGame(bushi)等的喵**
 
-> “我不是栈，也不是队列，但我会永远把你放在最优先的位置”
+> “我不是栈，也不是队列，但我会永远把你放在最优先的位置的喵”
 
 ---
 
-### ⚙️ 技术栈与工具
+### ⚙️ 技术栈与工具喵
 
-#### 💬 编程语言
+#### 💬 编程语言喵
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-#### 🧩 数据库 & 中间件
+#### 🧩 数据库 & 中间件喵
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-#### 🎨 前端 & 框架
+#### 🎨 前端 & 框架喵
 ![QT](https://img.shields.io/badge/QT-41CD52?logo=qt&logoColor=white)
 
-#### 🧰 工具与平台
+#### 🧰 工具与平台喵
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-FF5733)
+![QT Creator](https://img.shields.io/badge/QT%20Creator-41CD52?logo=qt&logoColor=white)
 
 ---
 
-### 📊 GitHub 数据展示
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbysalQuill&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" style="border-radius: 10px;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbysalQuill&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" style="border-radius: 10px;" />
-</p>
-
-<!-- 替换不稳定的贡献图为GitHub原生贡献图（更稳定） -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/AbysalQuill" alt="AbysalQuill's GitHub contribution chart" style="border-radius: 10px;" />
-</p>
-
----
-
-### 🌐 联系我
+### 🌐 联系我喵
 
 📧 **Email**：1736784911@qq.com
 💻 **GitHub**：[https://github.com/AbysalQuill](https://github.com/AbysalQuill)
 
 ---
 
-⭐️ 如果你喜欢我，欢迎 **Star / Follow** 支持一下！
+⭐️ 如果你喜欢我，欢迎 **Star / Follow** 支持一下喵！
